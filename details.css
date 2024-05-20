@@ -1,0 +1,99 @@
+body {
+    background-image:url(img/backgroundCarte.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titreRestaurant{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.adresseRestaurant{
+    color: white;
+    display: flex;
+    margin-top: 10%;
+    margin-left: 43%;
+    width: 50%;
+    height: 100%;
+
+}
+.noteRestaurant{
+    color: white;
+    display: flex;
+    margin-top: 4%;
+    margin-left: 43%;
+    height: 100%;
+
+}
+.horaire{
+    color: white;
+    display: flex;
+    margin-top: 4%;
+    margin-left: 43%;
+    width: 50%;
+    height: 100%;
+
+}
+.telephone{
+    color: white;
+    display: flex;
+    margin-top: 4%;
+    margin-left: 43%;
+    width: 50%;
+    height: 100%;
+}
+.siteWeb{
+    color: white;
+    display: flex;
+    margin-top: 4%;
+    margin-left: 43%;
+    width: 50%;
+    height: 100%;
+}
+@media only screen and (max-width: 700px) {
+.titreRestaurant {
+       
+        justify-content: end;
+        margin-right: 1rem;
+      
+    }
+
+    .adresseRestaurant {
+       
+       
+        margin-left: 59%;
+        width: 40%;
+       
+
+    }
+
+    .noteRestaurant {
+        
+       
+        margin-left: 59%;
+        
+
+    }
+
+    .horaire {
+        
+        margin-left: 59%;
+        width: 20%;
+        height: 100%;
+
+    }
+
+    .telephone {
+        
+        margin-left: 58%;
+       
+        
+    }
+
+    .siteWeb {
+       
+        margin-left: 58%;
+            width: 50%;
+        
+    }
+}

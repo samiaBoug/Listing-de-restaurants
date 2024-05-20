@@ -1,0 +1,194 @@
+[
+    {
+        "ID":"restaurant1",
+        "Nom":"Au Petit Leban",
+        "Adress":"TANRésidence Zineb, Place des Nations, Rue Abou Bakr Razi, Tanger, Tanger-Tétouan, MarocGER",
+        "Spécialité":"La cuisine libanaise",
+        "Note": 4.3,
+        "logo":"img/aupetitliban.jpg",
+        "Horaires":{
+            
+             "Lundi": "12:30-22: 00",
+             "Mardi": "12: 30-22: 00",
+             "Mercredi":"12: 30-22: 00",
+             "Jeudi":"12: 30-22: 00",
+             "Vendredi":"Fermé"	,
+             "Samedi":"12: 30-22: 30",
+             "Dimanche":"12: 30-22: 30"
+        },
+        "Téléphone":"+212 5399-40908",
+        "SiteWeb": "non disponible"
+    },
+     {
+    "ID": "restaurant2",
+    "Nom": "Caravaggio",
+    "Adress": "7 Rue Moussa Ben Noussair, Tangier 90060",
+    "Spécialité": "la cuisine italienne",
+    "Note": 4.1,
+    "logo": "img/garavaggio.jpeg",
+    "Horaires": {
+        "jeudi":"12:00-01:00",
+        "vendredi":"12:00-01:00",
+        "samedi":"12:00-01:00",
+        "dimanche":"12:30-00:00",
+        "lundi":"12:00-00:00",
+        "mardi":"12:00-01:00",
+        "mercredi":"12:00-01:00"
+    },
+    "Téléphone": "0539323956",
+    "SiteWeb": "http://www.caravaggio.ma/"
+},
+ {
+    "ID": "restaurant3",
+    "Nom": "Le Mekong",
+    "Adress": "Immeuble Mabrouk, Rue d'Algésiras, Tanger 90000",
+    "Spécialité": "cuisine vietnamienne",
+    "Note": 4.6,
+    "logo": "img/leMekong.jpg",
+    "Horaires": {
+        "jeudi": "12:00-23:30",
+        "vendredi": "12:00-23:30",
+        "samedi": "12:00-23:30",
+        "dimanche": "12:30-23:30",
+        "lundi": "Fermé",
+        "mardi": "12:00-23:30",
+        "mercredi": "12:00-23:30"
+    },
+    "Téléphone": "0539343522",
+    "SiteWeb": "http://www.lemekong.ma/"
+},
+ {
+    "ID": "restaurant4",
+    "Nom": "Soju Sushi",
+    "Adress": "36 Rue Allal Ben Abdellah, Tanger 90000",
+    "Spécialité": "cuisine asiatique",
+    "Note": 4.3,
+    "logo": "img/sojuSushi.jpg",
+    "Horaires": {
+        "jeudi": "12:00-00:00",
+        "vendredi": "12:00-00:00",
+        "samedi": "12:00-00:00",
+        "dimanche": "12:00-00:00",
+        "lundi": "12:00-00:00",
+        "mardi": "12:00-00:00",
+        "mercredi": "12:00-00:00"
+    },
+    "Téléphone": "0539343522",
+    "SiteWeb": "http://www.sojusushi.ma/"
+},
+ {
+    "ID": "restaurant5",
+    "Nom": "Indian spice",
+    "Adress": "A cote de Roxy cinema, 4 RUE BOUHTOURI, Tangier 90000",
+    "Spécialité": "cuisine indienne",
+    "Note": 4.7,
+    "logo": "img/indienne spice.jpg",
+    "Horaires": {
+        "jeudi": "14:00-23:30",
+        "vendredi": "14:00-23:30",
+        "samedi": "14:00-23:30",
+        "dimanche": "14:00-23:30",
+        "lundi": "14:00-23:30",
+        "mardi": "14:00-23:30",
+        "mercredi": "14:00-23:30"
+    },
+    "Téléphone": "0531102410",
+    "SiteWeb": "https://instagram.com/indianspice.tangier?igshid=MzRlODBiNWFlZA=="
+},
+{
+    "ID": "restaurant6",
+    "Nom": "Achab",
+    "Adress": "A cote de Roxy cinema, 4 RUE BOUHTOURI, Tangier 90000",
+    "Spécialité": "poissons grillés",
+    "Note": 3.9,
+    "logo": "img/Achab.jpg",
+    "Horaires": {
+        "jeudi": "14:00-23:30",
+        "vendredi": "14:00-23:30",
+        "samedi": "14:00-23:30",
+        "dimanche": "14:00-23:30",
+        "lundi": "14:00-23:30",
+        "mardi": "14:00-23:30",
+        "mercredi": "14:00-23:30"
+    },
+    "Téléphone": "0661877314",
+    "SiteWeb": "https://www.instagram.com/restaurantachabtanger/"
+},
+{
+    "ID": "restaurant7",
+    "Nom": "Dar naji",
+    "Adress": "Ajroum, Rue 11, Tangier",
+    "Spécialité": "La cuisine marocaine",
+    "Note": 3.7,
+    "logo": "img/darnaji.PNG",
+    "Horaires": {
+        "jeudi": "11:00-23:00",
+        "vendredi": "11:00-23:00",
+        "samedi": "11:00-23:00",
+        "dimanche": "11:00-23:00",
+        "lundi": "11:00-23:00",
+        "mardi": "11:00-23:00",
+        "mercredi": "11:00-23:00"
+    },
+    "Téléphone": "0539946340",
+    "SiteWeb": "non disponible"
+},
+ {
+    "ID": "restaurant8",
+    "Nom": "Kebdani",
+    "Adress": "Rue Dar baroud, Tanger (Tanja) Maroc",
+    "Spécialité": "La cuisine marocaine",
+    "Note": 4.5,
+    "logo": "img/kebdani.jpg",
+    "Horaires": {
+        "jeudi": "de 11:45-17:00 à 19:00-23:30",
+        "vendredi": "de 11: 45-17: 00 à 19: 00-23: 30",
+        "samedi": "de 11:45-17:00 à 19:00-23:30",
+        "dimanche": "de 11:45-17:00 à 19:00-23:30",
+        "lundi": "de 12:00-17:00 à 19:00-23:30",
+        "mardi": "Fermé",
+        "mercredi": "de 11:45-17:00 à 19:00-23:30"
+    },
+    "Téléphone": "0711768082",
+    "SiteWeb": "https://www.facebook.com/Restaurant.Kebdani/"
+},
+{
+    "ID": "restaurant9",
+    "Nom": "Le Saveur du Poisson",
+    "Adress": "2 Escalier Waller, Tangier",
+    "Spécialité": "fruits de mer",
+    "Note": 4.4,
+    "logo": "img/le Saveur de poisson.jpg",
+    "Horaires": {
+        "jeudi": "de 13:00-17:00 à 19:00-22:30",
+        "vendredi": "de 13:00-17:00 à 19:00-22:30",
+        "samedi": "de 13:00-17:00 à 19:00-22:30",
+        "dimanche": "de 13:00-17:00 à 19:00-22:30",
+        "lundi": "de 13:00-17:00 à 19:00-22:30",
+        "mardi": "de 13:00-17:00 à 19:00-22:30",
+        "mercredi": "de 13:00-17:00 à 19:00-22:30"
+    },
+    "Téléphone": "0539336326",
+    "SiteWeb": "https://www.facebook.com/pages/Restaurant-Le-Saveur-De-Poisson/195976703888314"
+},
+ {
+    "ID": "restaurant10",
+    "Nom": "la Boqueria",
+    "Adress": "42 Rue de Hollande, Tangier 90000",
+    "Spécialité": "Cuisine espagnole",
+    "Note": 3.9,
+    "logo": "img/La Boqueria.PNG",
+    "Horaires": {
+        "jeudi": "07:00-01:00",
+        "vendredi": "07:00-01:00",
+        "samedi": "07:00-01:00",
+        "dimanche": "07:00-01:00",
+        "lundi": "07:00-01:00",
+        "mardi": "07:00-01:00",
+        "mercredi": "07:00-01:00"
+    },
+    "Téléphone": "0539343934",
+    "SiteWeb": "http://www.fredjhotel.com/"
+}
+
+]
